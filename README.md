@@ -1,6 +1,6 @@
 # Calcular precio de venta Mercado Libre
 
-Entrada recomendada: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html?src=github-readme&utm_campaign=calcular-precio-mercado-libre?src=github-readme&utm_campaign=calcular-precio-mercado-libre
+Entrada recomendada: https://bozicovichsantiago20-oss.github.io/kit-vendedor-express/empezar.html?src=github-readme&utm_campaign=calcular-precio-mercado-libre
 
 Recurso para vendedores que quieren revisar costo, comision, envio, impuestos y margen antes de bajar precio.
 
